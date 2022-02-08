@@ -1,0 +1,31 @@
+.main{
+    height: 330px;
+    width: 250px;
+    text-align: center;
+    font-family: sans-serif;
+    color: honeydew;
+    background-color: slategrey;
+    font-weight: bolder;
+    
+}
+.btn{
+    display:inline-grid;
+    
+}
+button{
+    border-style: none;
+    margin-top: 10px;
+    width: 160px;
+    height: 40px;
+    margin-bottom: 5px;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-weight: bolder;
+    color: honeydew;
+    background-color: rgb(96, 151, 223);
+    border-radius: 7px;
+
+}
+button:hover{
+    background-color: rgb(127, 173, 214);
+}
